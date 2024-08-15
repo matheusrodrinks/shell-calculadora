@@ -1,17 +1,17 @@
 # shell-calculadora
 ## Comandos que utilizei:
 
-1.nano calculadora2.sh </br>
-2. #!bin/bash </br>
-3. coloquei sudo apt install caso não tenho python </br>
-4. botei python3 calculadora.py para poder rodar em python </br>
-5. coloquei o script da calculadora
+- nano calc2.sh </br>
+- #!bin/bash </br>
+- coloquei sudo apt install caso não tenho python </br>
+- botei python3 calculadora.py para poder rodar em python </br>
+- coloquei o script da calculadora
 
-Instruções para rodar:
-
-navegue até o diretório em que foi salvo e torne-o executável no shell com o comando: chmod +x calc2.sh
-
-e depois execute o script com o comando: ./calc2.sh
+# Como Executar
+- Primeiro, clone o repositório para sua máquina local: </br>
+- Entre no diretório onde o repositório foi clonado: </br>
+- Dê permissão de execução ao script Bash: chmod +x calc2.sh </br>
+- execute o script para instalar o Python (se necessário) e rodar o script Python: ./calc2.sh
 
 # Funcionalidades do código Python
 Solicita ao usuário dois números inteiros. </br>
